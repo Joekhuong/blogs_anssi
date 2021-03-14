@@ -1,6 +1,6 @@
 # Blog
 
-This is an excercise for creating and using Context with React Native.
+This is an exercise for creating and using Context with React Native.
 
 ## Index Screen 
 
